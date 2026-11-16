@@ -1,14 +1,10 @@
-<h2 align="center">hi, i'm pavni 🌸</h2>
+### hi, i'm pavni! 🌸
 
-<p align="center">
-  <a href="https://github.com/wilddflower">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=E58FB0&center=true&vCenter=true&width=480&lines=cs+%2B+business+%40+ubc;building+where+growth+meets+engineering;chess+coach+%E2%99%9F%EF%B8%8F" alt="typing intro" />
-  </a>
-</p>
+2nd-year business + computer science student @ ubc, based in vancouver.
 
-<p align="center">
-  2nd-year business + computer science @ ubc · vancouver
-</p>
+<a href="https://github.com/wilddflower">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=E58FB0&vCenter=true&width=480&lines=building+where+growth+meets+engineering;chess+coach+%E2%99%9F%EF%B8%8F" alt="typing intro" />
+</a>
 
 ---
 
@@ -51,7 +47,3 @@ my personal website.
 ### 📫 say hi
 
 connect with me or reach out at **pavnilabade07@gmail.com** :)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wilddflower&theme=default&hide_border=true" alt="github streak" />
-</p>
