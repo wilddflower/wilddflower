@@ -6,8 +6,9 @@ currently a gtm + operations intern @ withe (os for career fairs), where i ship 
 
 earlier this year i built a chess ed-tech business to **$10K ARR**, with an app where kids have played **400+ live games** on a real-time server and solved **11K+ puzzles**.
 
-other things i've built: [filo](https://github.com/wilddflower/filo) (ai growth signal finder for X) and [mochi](https://github.com/wilddflower/mochi) (a pixel-art focus bunny for your desktop).
+other things i've built: [filo](https://github.com/wilddflower/filo) (ai growth signal finder for X) and [mochi](https://github.com/wilddflower/mochi) (a pixel-art focus bunny for your desktop), and my [personal website](https://github.com/wilddflower/pavnibuilds)!
 
 feel free to reach out:
 
 📧 [pavnilabade07@gmail.com](mailto:pavnilabade07@gmail.com)
+
