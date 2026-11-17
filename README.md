@@ -1,29 +1,25 @@
-### hi, i'm pavni! 🌸
+### hi, i'm pavni!
 
-2nd-year business + computer science student @ ubc, based in vancouver.
-
-<a href="https://github.com/wilddflower">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=E58FB0&vCenter=true&width=480&lines=building+where+growth+meets+engineering;chess+coach+%E2%99%9F%EF%B8%8F" alt="typing intro" />
-</a>
+18, 2nd-year business + computer science student @ ubc, based in vancouver.
 
 ---
 
-### 🌱 about me
+### about me
 
-- 💼 currently a **gtm + operations intern at withe** (os for career fairs), where i ship product features and do customer outreach
-- ♟️ earlier this year, i built a **chess ed-tech business to $10K ARR**
-- 🔭 seeking a **winter 2027 or summer 2027 technical internship** (swe, tpm, or product engineering)
-- ☕ in my free time: designing cool apps, hiking, and cafe hopping
+- currently a **gtm + operations intern at withe** (os for career fairs), where i ship product features and do customer outreach
+- earlier this year, i built a **chess ed-tech business to $10K ARR**
+- seeking a **winter 2027 or summer 2027 technical internship** 
+
 
 ---
 
-### 🛠 things i've built
+### things i've built
 
 **♞ brainychamps chess portal** · React · TypeScript · Supabase
 the app behind my chess ed-tech business ($10K ARR): a chess learning platform for kids, like duolingo meets chess.com. students have played **400+ live games** on it and solved **11K+ puzzles**.
 - wrote a chess bot from scratch in TypeScript (minimax + alpha-beta pruning) that searches 3 moves deep in under 500ms in the browser
 - real-time games between classmates with no WebSocket server, using Supabase Realtime
-- streaks, daily quests, and a rewards system designed to bring kids back every day, plus row-level security to keep their data private
+- streaks, daily quests, and a rewards system designed to bring kids back every day, + row-level security to keep their data private
 
 **[🐦 filo](https://github.com/wilddflower/filo)** · TypeScript
 ai growth signal finder for X (twitter). scrapes posts by keyword every 10 minutes, scores how likely each author is a founder struggling with growth, and drafts replies you can post.
