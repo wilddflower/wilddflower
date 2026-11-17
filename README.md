@@ -1,45 +1,13 @@
-### hi, i'm pavni!
+### hi, i'm pavni! 🌸
 
-18, 2nd-year business + computer science student @ ubc, based in vancouver.
+i'm a 2nd-year business + computer science student at ubc. i love building products people actually use, especially where growth meets engineering.
 
----
+currently a gtm + operations intern @ withe (os for career fairs), where i ship product features and do customer outreach. seeking a winter or summer 2027 technical internship (swe, tpm, or product engineering).
 
-### about me
+earlier this year i built a chess ed-tech business to **$10K ARR**, with an app where kids have played **400+ live games** on a real-time server and solved **11K+ puzzles**.
 
-- currently a **gtm + operations intern at withe** (os for career fairs), where i ship product features and do customer outreach
-- earlier this year, i built a **chess ed-tech business to $10K ARR**
-- seeking a **winter 2027 or summer 2027 technical internship** 
+other things i've built: [filo](https://github.com/wilddflower/filo) (ai growth signal finder for X) and [mochi](https://github.com/wilddflower/mochi) (a pixel-art focus bunny for your desktop).
 
+feel free to reach out:
 
----
-
-### things i've built
-
-**♞ brainychamps chess portal** · React · TypeScript · Supabase
-the app behind my chess ed-tech business ($10K ARR): a chess learning platform for kids, like duolingo meets chess.com. students have played **400+ live games** on it and solved **11K+ puzzles**.
-- wrote a chess bot from scratch in TypeScript (minimax + alpha-beta pruning) that searches 3 moves deep in under 500ms in the browser
-- real-time games between classmates with no WebSocket server, using Supabase Realtime
-- streaks, daily quests, and a rewards system designed to bring kids back every day, + row-level security to keep their data private
-
-**[🐦 filo](https://github.com/wilddflower/filo)** · TypeScript
-ai growth signal finder for X (twitter). scrapes posts by keyword every 10 minutes, scores how likely each author is a founder struggling with growth, and drafts replies you can post.
-
-**[🐰 mochi](https://github.com/wilddflower/mochi)** · JavaScript
-a pixel-art bunny that lives on your windows desktop and keeps you on task. tracks distracting apps and sites, locks you in if you drift too long, and turns focus time into streaks and levels.
-
-**[🌐 pavni.build](https://github.com/wilddflower/pavni.build)** · HTML
-my personal website.
-
----
-
-### 🧰 tools i use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,supabase,postgres,python,html,css,vercel,git&perline=12" alt="skills" />
-</p>
-
----
-
-### 📫 say hi
-
-connect with me or reach out at **pavnilabade07@gmail.com** :)
+📧 [pavnilabade07@gmail.com](mailto:pavnilabade07@gmail.com)
